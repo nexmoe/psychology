@@ -1,3 +1,7 @@
+---
+description: '整理转载自 https://www.bilibili.com/read/cv4613248'
+---
+
 # 公开课
 
 ## 哔哩哔哩
@@ -15,7 +19,7 @@
 * 教育心理学：[AV59297076](https://www.bilibili.com/video/av59297076)（华东师范大学）
 * 社会心理学：[AV59303610](https://www.bilibili.com/video/av59303610)（南开大学）
 * 西方心理学史：[AV60961847](https://www.bilibili.com/video/av60961847)（南京师范大学）
-* 认知神经科学：[AV61013552](https://www.bilibili.com/video/av61013552)
+* 认知神经科学：[AV61013552](https://www.bilibili.com/video/av61013552)（台湾联合大学）
 * 社会认知心理学：[AV67975156](https://www.bilibili.com/video/av67975156)
 * 心理统计学：[AV83239011](https://www.bilibili.com/video/av83239011)、[AV67972502](https://www.bilibili.com/video/av67972502)
 * 心理测量学：[AV74393090](https://www.bilibili.com/video/av74393090)
@@ -56,4 +60,10 @@
 * 犯罪小说：[AV68235118](https://www.bilibili.com/video/av68235118)
 * 犯罪心理学：[AV60050982](https://www.bilibili.com/video/av60050982)、[AV62333673](https://www.bilibili.com/video/av62333673)
 * 变态（异常）心理学：[AV60036579](https://www.bilibili.com/video/av60036579)
+
+## 网易公开课
+
+* [耶鲁大学公开课：心理学导论](http://open.163.com/special/sp/introductiontopsychology.html)
+* [中国政法大学公开课：犯罪心理学概论](http://open.163.com/newview/movie/free?pid=MDPKC03R5&mid=MDPKFIU6H)
+* [华东师范大学公开课：学习心理学](http://open.163.com/special/cuvocw/xuexixinlixue.html)
 

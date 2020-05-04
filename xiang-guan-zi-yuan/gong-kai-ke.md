@@ -39,7 +39,7 @@ description: '整理转载自 https://www.bilibili.com/read/cv4613248'
 * 游戏心理学：[AV60970251](https://www.bilibili.com/video/av60970251)（中国传媒大学）
 * 设计心理学：[AV60903933](https://www.bilibili.com/video/av60903933)（湖南大学）
 * 创造性心理学：[AV78140123](https://www.bilibili.com/video/av78140123)（北京师范大学）
-* 体育运动心理学： [AV73356906](https://www.bilibili.com/video/av73356906)
+* 体育运动心理学： [AV73356906](https://www.bilibili.com/video/av73356906)（北京师范大学）
 * 管理心理学：[AV67418175](https://www.bilibili.com/video/av67418175)
 * 音乐心理学：[AV69461061](https://www.bilibili.com/video/av69461061)
 * 经济心理学：[AV60944014](https://www.bilibili.com/video/av60944014)

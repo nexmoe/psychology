@@ -19,7 +19,7 @@
 * 社会认知心理学：[AV67975156](https://www.bilibili.com/video/av67975156)
 * 心理统计学：[AV83239011](https://www.bilibili.com/video/av83239011)、[AV67972502](https://www.bilibili.com/video/av67972502)
 * 心理测量学：[AV74393090](https://www.bilibili.com/video/av74393090)
-* 爱情心理学：[AV60971286](https://www.bilibili.com/video/av60971286) \(白学\)
+* 爱情心理学：[AV60971286](https://www.bilibili.com/video/av60971286)
 * 恋爱心理学：[AV84241757](https://www.bilibili.com/video/av84241757)
 * 情商：[AV63465288](https://www.bilibili.com/video/av63465288)
 * 家庭夫妇心理学：[AV86555082](https://www.bilibili.com/video/av86555082)
@@ -29,7 +29,7 @@
 
 **应用**
 
-* 游戏心理学：[AV60970251](https://www.bilibili.com/video/av60970251) \(游戏人生\)
+* 游戏心理学：[AV60970251](https://www.bilibili.com/video/av60970251)
 * 设计心理学：[AV60903933](https://www.bilibili.com/video/av60903933)
 * 创造性心理学：[AV78140123](https://www.bilibili.com/video/av78140123)
 * 体育运动心理学： [AV73356906](https://www.bilibili.com/video/av73356906)
@@ -38,7 +38,7 @@
 * 经济心理学：[AV60944014](https://www.bilibili.com/video/av60944014)
 * 生活心理学：[AV60920690](https://www.bilibili.com/video/av60920690)
 * 人格心理学：[AV61015602](https://www.bilibili.com/video/av61015602)
-* 幸福心理学：[AV61031228](https://www.bilibili.com/video/av61031228) \(clannad\)
+* 幸福心理学：[AV61031228](https://www.bilibili.com/video/av61031228)
 * 探索心理学：[AV61605026](https://www.bilibili.com/video/av61605026)
 * 学校心理学：[AV78010406](https://www.bilibili.com/video/av78010406)
 * 心理咨询\(会谈\)：[AV61614970](https://www.bilibili.com/video/av61614970)

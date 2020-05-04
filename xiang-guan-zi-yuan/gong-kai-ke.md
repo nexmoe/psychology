@@ -20,22 +20,25 @@ description: '整理转载自 https://www.bilibili.com/read/cv4613248'
 * 社会心理学：[AV59303610](https://www.bilibili.com/video/av59303610)（南开大学）
 * 西方心理学史：[AV60961847](https://www.bilibili.com/video/av60961847)（南京师范大学）
 * 认知神经科学：[AV61013552](https://www.bilibili.com/video/av61013552)（台湾联合大学）
-* 社会认知心理学：[AV67975156](https://www.bilibili.com/video/av67975156)
-* 心理统计学：[AV83239011](https://www.bilibili.com/video/av83239011)、[AV67972502](https://www.bilibili.com/video/av67972502)
-* 心理测量学：[AV74393090](https://www.bilibili.com/video/av74393090)
-* 爱情心理学：[AV60971286](https://www.bilibili.com/video/av60971286)
-* 恋爱心理学：[AV84241757](https://www.bilibili.com/video/av84241757)
-* 情商：[AV63465288](https://www.bilibili.com/video/av63465288)
-* 家庭夫妇心理学：[AV86555082](https://www.bilibili.com/video/av86555082)
-* 情绪管理：[AV64173895](https://www.bilibili.com/video/av64173895)
-* 沟通心理学：[AV60936140](https://www.bilibili.com/video/av60936140)
-* 微表情：[AV87054165](https://www.bilibili.com/video/av87054165)
+* 社会认知心理学：[AV67975156](https://www.bilibili.com/video/av67975156)（加州大学伯克利分校）
+* 心理统计学：[AV83239011](https://www.bilibili.com/video/av83239011)（福建师范大学）、[AV67972502](https://www.bilibili.com/video/av67972502)（加州大学伯克利分校）
+* 心理测量学：[AV74393090](https://www.bilibili.com/video/av74393090)（西南大学）
+
+#### 人际沟通
+
+* 爱情心理学：[AV60971286](https://www.bilibili.com/video/BV1jt411P7Nt?p=2)（武汉理工大学）
+* 恋爱心理学：[AV84241757](https://www.bilibili.com/video/av84241757)（中国矿业大学）
+* 情商：[AV63465288](https://www.bilibili.com/video/av63465288)（海南师范大学）
+* 家庭夫妇心理学：[AV86555082](https://www.bilibili.com/video/av86555082)（加州大学洛杉矶分校）
+* 情绪管理：[AV64173895](https://www.bilibili.com/video/av64173895)（哈尔滨工业大学）
+* 沟通心理学：[AV60936140](https://www.bilibili.com/video/av60936140)（哈尔滨工业大学）
+* 微表情：[AV87054165](https://www.bilibili.com/video/av87054165)（上海政法学院）
 
 **应用**
 
-* 游戏心理学：[AV60970251](https://www.bilibili.com/video/av60970251)
-* 设计心理学：[AV60903933](https://www.bilibili.com/video/av60903933)
-* 创造性心理学：[AV78140123](https://www.bilibili.com/video/av78140123)
+* 游戏心理学：[AV60970251](https://www.bilibili.com/video/av60970251)（中国传媒大学）
+* 设计心理学：[AV60903933](https://www.bilibili.com/video/av60903933)（湖南大学）
+* 创造性心理学：[AV78140123](https://www.bilibili.com/video/av78140123)（北京师范大学）
 * 体育运动心理学： [AV73356906](https://www.bilibili.com/video/av73356906)
 * 管理心理学：[AV67418175](https://www.bilibili.com/video/av67418175)
 * 音乐心理学：[AV69461061](https://www.bilibili.com/video/av69461061)

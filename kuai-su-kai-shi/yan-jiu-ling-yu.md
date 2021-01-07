@@ -4,8 +4,6 @@ description: 摘自维基百科
 
 # 研究领域
 
-
-
 心理学研究涉及[知觉](https://baike.baidu.com/item/%E7%9F%A5%E8%A7%89/1562614)、[认知](https://baike.baidu.com/item/%E8%AE%A4%E7%9F%A5/12815064)、[情绪](https://baike.baidu.com/item/%E6%83%85%E7%BB%AA)、[人格](https://baike.baidu.com/item/%E4%BA%BA%E6%A0%BC/2114241)、[行为](https://baike.baidu.com/item/%E8%A1%8C%E4%B8%BA/5950974)、[人际关系](https://baike.baidu.com/item/%E4%BA%BA%E9%99%85%E5%85%B3%E7%B3%BB)、[社会关系](https://baike.baidu.com/item/%E7%A4%BE%E4%BC%9A%E5%85%B3%E7%B3%BB)等许多领域，也与[日常生活](https://baike.baidu.com/item/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB)的许多领域——家庭、教育、健康等发生关联。心理学一方面尝试用大脑运作来解释个人基本的行为与心理[机能](https://baike.baidu.com/item/%E6%9C%BA%E8%83%BD)，同时，心理学也尝试解释个人心理机能在社会的[社会行为](https://baike.baidu.com/item/%E7%A4%BE%E4%BC%9A%E8%A1%8C%E4%B8%BA)与社会动力中的角色；同时它也与[神经科学](https://baike.baidu.com/item/%E7%A5%9E%E7%BB%8F%E7%A7%91%E5%AD%A6)、[医学](https://baike.baidu.com/item/%E5%8C%BB%E5%AD%A6/843)、[生物学](https://baike.baidu.com/item/%E7%94%9F%E7%89%A9%E5%AD%A6/1358)等科学有关，因为这些科学所探讨的生理作用会影响个人的心智。
 
 心理学主要分为理论心理学和应用心理学两大领域，其下又可分为许多次领域，例如[教育心理学](https://wiki.laic.workers.dev/wiki/%E6%95%99%E8%82%B2%E5%BF%83%E7%90%86%E5%AD%A6)、[变态心理学](https://wiki.laic.workers.dev/wiki/%E5%8F%98%E6%80%81%E5%BF%83%E7%90%86%E5%AD%A6)、[管理心理学](https://wiki.laic.workers.dev/wiki/%E7%AE%A1%E7%90%86%E5%BF%83%E7%90%86%E5%AD%A6)等。
